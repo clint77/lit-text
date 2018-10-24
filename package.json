@@ -1,0 +1,33 @@
+{
+  "name": "@moduware/lit-text",
+  "version": "1.0.0",
+  "description": "Text that fly across made of LitElement as base class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clint77/lit-text.git"
+  },
+  "keywords": [
+    "web",
+    "components",
+    "lit-element",
+    "polymer"
+  ],
+  "author": "Clint Pijuan <clintp1@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/clint77/lit-text/issues"
+  },
+  "homepage": "https://github.com/clint77/lit-text#readme",
+  "dependencies": {
+    "@polymer/lit-element": "^0.6.2"
+  },
+  "devDependencies": {
+    "polyserve": "^0.27.13",
+    "webpack": "^4.22.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
